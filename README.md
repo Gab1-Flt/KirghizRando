@@ -10,7 +10,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-kirghizrando.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white)](https://kirghizrando.netlify.app/)
 
 </div>
 
@@ -23,6 +23,8 @@
 ### Overview & Context
 
 **Kirghiz Rando Équestre** (*LLC «Cavalier»*) is a responsive showcase website built for a local equestrian travel agency based in Bishkek, Kyrgyzstan, offering guided multi-day horseback expeditions across the Tian Shan mountains.
+
+**Live Demo:** [https://kirghizrando.netlify.app/](https://kirghizrando.netlify.app/)
 
 > **Project Context:** Built on request for a real client who needed an online presence to grow their trekking business. This project was created using an AI-assisted **vibe-coding** workflow for rapid UI/UX iteration, paired with hands-on customization to meet real business requirements—local photography and downloadable PDF itinerary integration, GDPR legal compliance, SEO metadata, and Netlify production deployment.
 
@@ -94,6 +96,8 @@ npm run build        # Build for production (dist/)
 ### Présentation & Contexte
 
 **Kirghiz Rando Équestre** (*LLC «Cavalier»*) est un site vitrine responsive conçu pour une agence locale de voyages équestres basée à Bichkek, au Kirghizistan, spécialisée dans les expéditions guidées à cheval à travers les montagnes du Tian Shan.
+
+**Site en ligne :** [https://kirghizrando.netlify.app/](https://kirghizrando.netlify.app/)
 
 > **Contexte du projet :** Réalisé à la demande d'un client qui avait besoin d'un site web pour développer son activité de randonnées équestres. Le projet a été développé en **vibe-coding** (développement assisté par IA) afin d'itérer rapidement sur le design et l'ergonomie, puis adapté et finalisé pour répondre aux besoins métier concrets : intégration des photos et programmes PDF téléchargeables, conformité RGPD, métadonnées SEO et configuration pour déploiement Netlify.
 
